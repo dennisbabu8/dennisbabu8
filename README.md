@@ -1,7 +1,6 @@
 - 👋 Hi, I’m dennis babu
-- 👀 I’m interested in Python and java
-- 🌱 I’m currently learning java spring boot
-- 💞️ I’m looking to collaborate on spring boot
+- 👀 I’m interested in DevOps
+- 💞️ I’m looking to collaborate on Devops
 - 📫 How to reach me @ dennisbabu8@gmail.com
 
 <!---
